@@ -1,0 +1,46 @@
+﻿
+.StyleMenu
+{
+width: 180px; 
+}
+.StyleMenu .HeaderBar {
+font: bold 13px Verdana;
+color: white;
+background: #606060 url(arrowstop.gif) no-repeat 8px 6px;
+margin-bottom: 0;
+text-transform: uppercase;
+padding: 7px 0 7px 31px;
+}
+.StyleMenu ul
+{
+list-style-type: none;
+margin: 0;
+padding: 0;
+margin-bottom: 0; 
+}
+.StyleMenu ul li
+{
+padding-bottom: 2px; 
+}
+.StyleMenu ul li a
+{
+font: normal 12px Arial;
+color: black;
+background :silver;
+display: block;
+padding: 5px 0;
+line-height: 17px;
+padding-left: 8px; 
+text-decoration: none;
+}
+.StyleMenu ul li a:visited
+{
+color: black;
+}
+.StyleMenu ul li a:hover
+{ 
+color :white ;
+background: black;
+}
+
+
